@@ -1,0 +1,139 @@
+body {
+font-family: 'Roboto Flex', sans-serif;
+}
+
+#title {
+  background-color: #F1c2ae;
+  color: white;
+}
+
+h1 {
+font-family: 'Roboto Flex', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding-top: 10%;
+  padding-left: 15%;
+}
+
+h2 {
+font-family: 'Roboto Flex', sans-serif;
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1.5;
+  padding: 5% 15% 2%;
+}
+
+h3 {
+font-family: 'Roboto Flex', sans-serif;
+font-weight: 900;
+padding: 0 15% 3%;
+line-height: 1.5;
+}
+
+h4 {
+  padding: 5% 5% 10% 10%;
+}
+
+p {
+  color: white;
+}
+
+
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 2.5rem;
+  margin: 0;
+  background-color: #ACB992;
+  z-index: 1;
+}
+
+.navbar-brand {
+  font-size: 4rem;
+font-family: 'Koulen', cursive;
+  padding: 2% 0 0 5%;
+}
+
+.nav-item {
+  padding: 10% 0% 0 10%;
+
+}
+
+.nav-link {
+  font-size: 2rem;
+font-family: 'Roboto Flex', sans-serif;
+font-weight: 900;
+}
+
+/* Download Buttons */
+.download-button {
+  margin: 5% 0 0 15%;
+}
+
+/* Title */
+
+.container-fluid {
+  padding: 0;
+}
+
+/* Title Image */
+.hairdryer-img {
+  width: 98%;
+}
+
+/* Services */
+
+#services {
+  background-color: #ACB992;
+  color: white;
+  text-align: center;
+}
+
+.hair-img {
+  padding: 5%;
+  border-radius: 100%;
+  width: 75%;
+}
+
+.col-lg-6 {
+  padding: 0;
+}
+
+/* testimonials */
+
+#testimonials {
+  text-align: center;
+  color: white;
+  background-color: #F1c2ae;
+
+}
+
+.testimonial-img {
+  padding: 10% 10%;
+  width: 75%;
+  border-radius: 100%;
+}
+
+/* Location */
+#location {
+  background-color: #ACB992;
+  font-family: 'Roboto Flex', sans-serif;
+  text-align: left;
+}
+
+.location-hours {
+padding: 15% 0 2% 10%;
+}
+
+.hours{
+  padding: 32% 0 2% 10%;
+}
+.mapouter {
+  padding: 15%;
+}
+
+.directions {
+  margin-top: 5%;
+}
